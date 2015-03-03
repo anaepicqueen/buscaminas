@@ -1,0 +1,26 @@
+		body 
+		{
+	background: #ea564b;
+	}
+
+		.tablero{
+				width: 416px;
+				height: 416px;								
+				border: 1px solid #f3ebe0;
+				margin-left: 33%;
+				margin-top: 120px;				
+			}
+
+			.tablero div{
+				width: 50px;
+				height: 50px;
+				border: 1px solid #f3ebe0;
+				float: left;
+				background-color: #ea564b;				
+				font: 30px;
+				color: 	#ea564b;
+				text-align: center;
+				font-family: 'Montserrat', sans-serif;
+		
+			}
+
